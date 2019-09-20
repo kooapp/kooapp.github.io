@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 title:        KOO APP技术支持
-description:      <a style="color:#ffffff;" href="http://kooapp.github.io">KOO</a> 是一个非常好用的APP.
+description:      年轻就是要KOO！
 show_downloads: false
 
 github:
@@ -9,7 +9,7 @@ github:
 
 # About/contact
 author:
-  name:       kooapp
-  email:     xxxx@qq.com
+  name:      kooapp
+  email:     qubo.qin.2018@gmail.com
   github:    kooapp
-  url:        http://kooapp.github.io
+  url:       http://kooapp.github.io
